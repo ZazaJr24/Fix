@@ -245,7 +245,7 @@
   },
   {
     "appid": "1888160",
-    "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
     "fixes": [
       {
         "filename": "ARMORED CORE VI FIRES OF RUBICON.zip",
@@ -302,7 +302,7 @@
   },
   {
     "appid": "812140",
-    "name": "Assassin's Creed® Odyssey",
+    "name": "Assassin's Creed\u00ae Odyssey",
     "fixes": [
       {
         "filename": "Assassin's Creed Odyssey 2.zip",
@@ -324,7 +324,7 @@
   },
   {
     "appid": "582160",
-    "name": "Assassin's Creed® Origins",
+    "name": "Assassin's Creed\u00ae Origins",
     "fixes": [
       {
         "filename": "Assassin's Creed Origin Ubisoft Bypass.zip",
@@ -339,7 +339,7 @@
   },
   {
     "appid": "201870",
-    "name": "Assassin's Creed® Revelations",
+    "name": "Assassin's Creed\u00ae Revelations",
     "fixes": [
       {
         "filename": "Assassin's Creed Revelations Bypass.zip",
@@ -353,7 +353,7 @@
   },
   {
     "appid": "368500",
-    "name": "Assassin's Creed® Syndicate",
+    "name": "Assassin's Creed\u00ae Syndicate",
     "fixes": [
       {
         "filename": "Assassin's Creed Syndicate Bypass.zip",
@@ -369,7 +369,7 @@
   },
   {
     "appid": "289650",
-    "name": "Assassin's Creed® Unity",
+    "name": "Assassin's Creed\u00ae Unity",
     "fixes": [
       {
         "filename": "Assassin Creed Unity.zip",
@@ -381,7 +381,7 @@
   },
   {
     "appid": "48190",
-    "name": "Assassin’s Creed® Brotherhood",
+    "name": "Assassin\u2019s Creed\u00ae Brotherhood",
     "fixes": [
       {
         "filename": "Assassin Creed Brotherhood.zip",
@@ -395,7 +395,7 @@
   },
   {
     "appid": "208480",
-    "name": "Assassin’s Creed® III",
+    "name": "Assassin\u2019s Creed\u00ae III",
     "fixes": [
       {
         "filename": "Assassin Creed III.zip",
@@ -407,7 +407,7 @@
   },
   {
     "appid": "242050",
-    "name": "Assassin’s Creed® IV Black Flag™",
+    "name": "Assassin\u2019s Creed\u00ae IV Black Flag\u2122",
     "fixes": [
       {
         "filename": "Assassins Creed IV Black Flag Bypass.zip",
@@ -421,7 +421,7 @@
   },
   {
     "appid": "311560",
-    "name": "Assassin’s Creed® Rogue",
+    "name": "Assassin\u2019s Creed\u00ae Rogue",
     "fixes": [
       {
         "filename": "Assassin Creed Rogue.zip",
@@ -584,7 +584,7 @@
   },
   {
     "appid": "1238820",
-    "name": "Battlefield 3™",
+    "name": "Battlefield 3\u2122",
     "fixes": [
       {
         "filename": "Battlefield 3.zip",
@@ -598,10 +598,10 @@
   },
   {
     "appid": "1238860",
-    "name": "Battlefield 4™",
+    "name": "Battlefield 4\u2122",
     "fixes": [
       {
-        "filename": "Battlefield 4™.zip",
+        "filename": "Battlefield 4\u2122.zip",
         "path": "fixes/1238860/1.zip",
         "size": "16.4 MB",
         "badges": []
@@ -610,10 +610,10 @@
   },
   {
     "appid": "1238840",
-    "name": "Battlefield™ 1",
+    "name": "Battlefield\u2122 1",
     "fixes": [
       {
-        "filename": "Battlefield™ 1 Revolution.zip",
+        "filename": "Battlefield\u2122 1 Revolution.zip",
         "path": "fixes/1238840/1.zip",
         "size": "88.4 MB",
         "badges": []
@@ -622,7 +622,7 @@
   },
   {
     "appid": "1238810",
-    "name": "Battlefield™ V",
+    "name": "Battlefield\u2122 V",
     "fixes": [
       {
         "filename": "Battlefield V.zip",
@@ -925,7 +925,7 @@
   },
   {
     "appid": "42700",
-    "name": "Call of Duty®: Black Ops",
+    "name": "Call of Duty\u00ae: Black Ops",
     "fixes": [
       {
         "filename": "Call of Duty - Black Ops.zip",
@@ -939,7 +939,7 @@
   },
   {
     "appid": "1985810",
-    "name": "Call of Duty®: Black Ops Cold War",
+    "name": "Call of Duty\u00ae: Black Ops Cold War",
     "fixes": [
       {
         "filename": "Call of Duty Black Ops Cold War.zip",
@@ -951,10 +951,10 @@
   },
   {
     "appid": "202970",
-    "name": "Call of Duty®: Black Ops II",
+    "name": "Call of Duty\u00ae: Black Ops II",
     "fixes": [
       {
-        "filename": "Call of Duty® Black Ops II.zip",
+        "filename": "Call of Duty\u00ae Black Ops II.zip",
         "path": "fixes/202970/1.zip",
         "size": "4.3 MB",
         "badges": []
@@ -969,7 +969,7 @@
   },
   {
     "appid": "311210",
-    "name": "Call of Duty®: Black Ops III",
+    "name": "Call of Duty\u00ae: Black Ops III",
     "fixes": [
       {
         "filename": "Call of Duty Black Ops III.zip",
@@ -984,7 +984,7 @@
   },
   {
     "appid": "209160",
-    "name": "Call of Duty®: Ghosts",
+    "name": "Call of Duty\u00ae: Ghosts",
     "fixes": [
       {
         "filename": "Call of Duty Ghosts.zip",
@@ -996,7 +996,7 @@
   },
   {
     "appid": "292730",
-    "name": "Call of Duty®: Infinite Warfare",
+    "name": "Call of Duty\u00ae: Infinite Warfare",
     "fixes": [
       {
         "filename": "Call of Duty Infinite Warfare.zip",
@@ -1008,7 +1008,7 @@
   },
   {
     "appid": "2000950",
-    "name": "Call of Duty®: Modern Warfare®",
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae",
     "fixes": [
       {
         "filename": "Call of Duty Modern Warfare (2019).zip",
@@ -1020,7 +1020,7 @@
   },
   {
     "appid": "10180",
-    "name": "Call of Duty®: Modern Warfare® 2 (2009)",
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)",
     "fixes": [
       {
         "filename": "Call of Duty Modern Warfare 2 (2009).zip",
@@ -1034,7 +1034,7 @@
   },
   {
     "appid": "115300",
-    "name": "Call of Duty®: Modern Warfare® 3 (2011)",
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)",
     "fixes": [
       {
         "filename": "Call of Duty Modern Warfare 3 (2011).zip",
@@ -1046,7 +1046,7 @@
   },
   {
     "appid": "1985820",
-    "name": "Call of Duty®: Vanguard",
+    "name": "Call of Duty\u00ae: Vanguard",
     "fixes": [
       {
         "filename": "Call of Duty Vanguard.zip",
@@ -1058,7 +1058,7 @@
   },
   {
     "appid": "476600",
-    "name": "Call of Duty®: WWII",
+    "name": "Call of Duty\u00ae: WWII",
     "fixes": [
       {
         "filename": "Call Of Duty WWII.zip",
@@ -1463,7 +1463,7 @@
   },
   {
     "appid": "374320",
-    "name": "DARK SOULS™ III",
+    "name": "DARK SOULS\u2122 III",
     "fixes": [
       {
         "filename": "DARKSOULS III.zip",
@@ -1477,7 +1477,7 @@
   },
   {
     "appid": "570940",
-    "name": "DARK SOULS™: REMASTERED",
+    "name": "DARK SOULS\u2122: REMASTERED",
     "fixes": [
       {
         "filename": "DARK SOULS REMASTERED.zip",
@@ -1491,7 +1491,7 @@
   },
   {
     "appid": "262060",
-    "name": "Darkest Dungeon®",
+    "name": "Darkest Dungeon\u00ae",
     "fixes": [
       {
         "filename": "Darkest Dungeon.zip",
@@ -1686,7 +1686,7 @@
   },
   {
     "appid": "2536520",
-    "name": "Diablo II: Resurrected – Infernal Edition",
+    "name": "Diablo II: Resurrected \u2013 Infernal Edition",
     "fixes": [
       {
         "filename": "Diablo_II_Resurrected_-_Infernal_Edition_v2.zip",
@@ -1889,7 +1889,7 @@
   },
   {
     "appid": "2963840",
-    "name": "EA SPORTS FC™ 25 SHOWCASE",
+    "name": "EA SPORTS FC\u2122 25 SHOWCASE",
     "fixes": [
       {
         "filename": "FC25 SHOWCASE to FC25 FULL GAME.zip",
@@ -1903,7 +1903,7 @@
   },
   {
     "appid": "1811260",
-    "name": "EA SPORTS™ FIFA 23",
+    "name": "EA SPORTS\u2122 FIFA 23",
     "fixes": [
       {
         "filename": "FIFA 23 Bypass.zip",
@@ -2023,7 +2023,7 @@
   },
   {
     "appid": "1485590",
-    "name": "ENDLESS™ Dungeon - Definitive Edition",
+    "name": "ENDLESS\u2122 Dungeon - Definitive Edition",
     "fixes": [
       {
         "filename": "ENDLESS Dungeon.zip",
@@ -2128,7 +2128,7 @@
   },
   {
     "appid": "515220",
-    "name": "F1™ 2017",
+    "name": "F1\u2122 2017",
     "fixes": [
       {
         "filename": "F1 2017.zip",
@@ -2192,7 +2192,7 @@
   },
   {
     "appid": "298110",
-    "name": "Far Cry® 4",
+    "name": "Far Cry\u00ae 4",
     "fixes": [
       {
         "filename": "Far Cry 4 Bypass.zip",
@@ -2207,7 +2207,7 @@
   },
   {
     "appid": "2369390",
-    "name": "Far Cry® 6",
+    "name": "Far Cry\u00ae 6",
     "fixes": [
       {
         "filename": "Far Cry 6.zip",
@@ -2221,7 +2221,7 @@
   },
   {
     "appid": "939960",
-    "name": "Far Cry® New Dawn",
+    "name": "Far Cry\u00ae New Dawn",
     "fixes": [
       {
         "filename": "Far Cry New Dawn.zip",
@@ -2235,7 +2235,7 @@
   },
   {
     "appid": "371660",
-    "name": "Far Cry® Primal",
+    "name": "Far Cry\u00ae Primal",
     "fixes": [
       {
         "filename": "Far Cry Primal.zip",
@@ -2646,7 +2646,7 @@
   },
   {
     "appid": "2322010",
-    "name": "God of War Ragnarök",
+    "name": "God of War Ragnar\u00f6k",
     "fixes": [
       {
         "filename": "God of War Ragnarok.zip",
@@ -2737,7 +2737,7 @@
   },
   {
     "appid": "1547000",
-    "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+    "name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
     "fixes": [
       {
         "filename": "GTA SA DE.zip",
@@ -2751,7 +2751,7 @@
   },
   {
     "appid": "1546990",
-    "name": "Grand Theft Auto: Vice City – The Definitive Edition",
+    "name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
     "fixes": [
       {
         "filename": "GTA VICE DE.zip",
@@ -2890,7 +2890,7 @@
   },
   {
     "appid": "553850",
-    "name": "HELLDIVERS™ 2",
+    "name": "HELLDIVERS\u2122 2",
     "fixes": [
       {
         "filename": "HELLDIVERS.zip",
@@ -2946,7 +2946,7 @@
   },
   {
     "appid": "203140",
-    "name": "Hitman: Absolution™",
+    "name": "Hitman: Absolution\u2122",
     "fixes": [
       {
         "filename": "HITMAN Absolution.zip",
@@ -3025,7 +3025,7 @@
   },
   {
     "appid": "1124300",
-    "name": "HUMANKIND™",
+    "name": "HUMANKIND\u2122",
     "fixes": [
       {
         "filename": "HUMANKIND.zip",
@@ -3207,7 +3207,7 @@
   },
   {
     "appid": "225540",
-    "name": "Just Cause™ 3",
+    "name": "Just Cause\u2122 3",
     "fixes": [
       {
         "filename": "Just Cause 3 Bypass.zip",
@@ -3325,7 +3325,7 @@
   },
   {
     "appid": "2215200",
-    "name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "name": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
     "fixes": [
       {
         "filename": "LEGO.Batman.Legacy.of.the.Dark.Knight-voices38.zip",
@@ -3379,7 +3379,7 @@
   },
   {
     "appid": "410340",
-    "name": "Liftoff®: FPV Drone Racing",
+    "name": "Liftoff\u00ae: FPV Drone Racing",
     "fixes": [
       {
         "filename": "Liftoff.zip",
@@ -3566,7 +3566,7 @@
   },
   {
     "appid": "1328670",
-    "name": "Mass Effect™ Legendary Edition",
+    "name": "Mass Effect\u2122 Legendary Edition",
     "fixes": [
       {
         "filename": "Mass Effect Legendary Edition.zip",
@@ -3578,7 +3578,7 @@
   },
   {
     "appid": "1238000",
-    "name": "Mass Effect™: Andromeda Deluxe Edition",
+    "name": "Mass Effect\u2122: Andromeda Deluxe Edition",
     "fixes": [
       {
         "filename": "Mass Effect Andromeda.zip",
@@ -3712,10 +3712,10 @@
   },
   {
     "appid": "1233570",
-    "name": "Mirror's Edge™ Catalyst",
+    "name": "Mirror's Edge\u2122 Catalyst",
     "fixes": [
       {
-        "filename": "Mirror's Edge™ Catalyst.zip",
+        "filename": "Mirror's Edge\u2122 Catalyst.zip",
         "path": "fixes/1233570/1.zip",
         "size": "72.9 MB",
         "badges": []
@@ -3776,7 +3776,7 @@
   },
   {
     "appid": "976310",
-    "name": "Mortal Kombat 11",
+    "name": "Mortal Kombat\u00a011",
     "fixes": [
       {
         "filename": "Mortal Kombat 11.zip",
@@ -3940,7 +3940,7 @@
   },
   {
     "appid": "1262560",
-    "name": "Need for Speed™ Most Wanted",
+    "name": "Need for Speed\u2122 Most Wanted",
     "fixes": [
       {
         "filename": "Need for Speed Most Wanted Bypass.zip",
@@ -3954,7 +3954,7 @@
   },
   {
     "appid": "1262580",
-    "name": "Need for Speed™ Payback",
+    "name": "Need for Speed\u2122 Payback",
     "fixes": [
       {
         "filename": "Need For Speed PayBack.zip",
@@ -3966,7 +3966,7 @@
   },
   {
     "appid": "1262600",
-    "name": "Need for Speed™ Rivals",
+    "name": "Need for Speed\u2122 Rivals",
     "fixes": [
       {
         "filename": "Need For Speed Rival Bypass.zip",
@@ -4032,7 +4032,7 @@
   },
   {
     "appid": "1325200",
-    "name": "Nioh 2 – The Complete Edition",
+    "name": "Nioh 2 \u2013 The Complete Edition",
     "fixes": [
       {
         "filename": "Nioh 2 The Complete Edition.zip",
@@ -4542,7 +4542,7 @@
   },
   {
     "appid": "3654560",
-    "name": "Plants vs. Zombies™: Replanted",
+    "name": "Plants vs. Zombies\u2122: Replanted",
     "fixes": [
       {
         "filename": "Plants_vs_Zombies.zip",
@@ -4626,7 +4626,7 @@
   },
   {
     "appid": "33320",
-    "name": "Prince of Persia: The Forgotten Sands™",
+    "name": "Prince of Persia: The Forgotten Sands\u2122",
     "fixes": [
       {
         "filename": "Prince of Persia The Forgotten Sands Bypass.zip",
@@ -4852,7 +4852,7 @@
   },
   {
     "appid": "1282100",
-    "name": "REMNANT II®",
+    "name": "REMNANT II\u00ae",
     "fixes": [
       {
         "filename": "Remnant II.zip",
@@ -5076,7 +5076,7 @@
   },
   {
     "appid": "1599660",
-    "name": "Sackboy™: A Big Adventure",
+    "name": "Sackboy\u2122: A Big Adventure",
     "fixes": [
       {
         "filename": "Sackboy Big Adventure.zip",
@@ -5168,6 +5168,18 @@
     ]
   },
   {
+    "appid": "814380",
+    "name": "Sekiro Shadows Die Twice",
+    "fixes": [
+      {
+        "filename": "Sekiro_Shadow_Die_Twice.7z",
+        "path": "fixes/814380/1.7z",
+        "size": "19.8 MB",
+        "badges": []
+      }
+    ]
+  },
+  {
     "appid": "1702010",
     "name": "Sengoku Dynasty",
     "fixes": [
@@ -5247,7 +5259,7 @@
   },
   {
     "appid": "289070",
-    "name": "Sid Meier’s Civilization® VI",
+    "name": "Sid Meier\u2019s Civilization\u00ae VI",
     "fixes": [
       {
         "filename": "Sid Meiers Civilization VI.zip",
@@ -5483,7 +5495,7 @@
   },
   {
     "appid": "213670",
-    "name": "South Park™: The Stick of Truth™",
+    "name": "South Park\u2122: The Stick of Truth\u2122",
     "fixes": [
       {
         "filename": "South_Park_-_The_Stick_of_Truth_Bypass.zip",
@@ -5615,7 +5627,7 @@
   },
   {
     "appid": "1172380",
-    "name": "STAR WARS Jedi: Fallen Order™",
+    "name": "STAR WARS Jedi: Fallen Order\u2122",
     "fixes": [
       {
         "filename": "Star Wars Jedi Fallen Order.zip",
@@ -5629,7 +5641,7 @@
   },
   {
     "appid": "1774580",
-    "name": "STAR WARS Jedi: Survivor™",
+    "name": "STAR WARS Jedi: Survivor\u2122",
     "fixes": [
       {
         "filename": "Star Wars Jedi Survivor.zip",
@@ -5657,7 +5669,7 @@
   },
   {
     "appid": "1237950",
-    "name": "STAR WARS™ Battlefront™ II",
+    "name": "STAR WARS\u2122 Battlefront\u2122 II",
     "fixes": [
       {
         "filename": "Star Wars Battlefront II.zip",
@@ -6218,7 +6230,7 @@
   },
   {
     "appid": "460930",
-    "name": "Tom Clancy's Ghost Recon® Wildlands",
+    "name": "Tom Clancy's Ghost Recon\u00ae Wildlands",
     "fixes": [
       {
         "filename": "Tom Clancy's Ghost Recon Wildlands.zip",
@@ -6318,7 +6330,7 @@
   },
   {
     "appid": "1136380",
-    "name": "Ultimate Fishing® Simulator 2",
+    "name": "Ultimate Fishing\u00ae Simulator 2",
     "fixes": [
       {
         "filename": "Ultimate Fishing Simulator 2.zip",
@@ -6430,7 +6442,7 @@
   },
   {
     "appid": "2172010",
-    "name": "Until Dawn™",
+    "name": "Until Dawn\u2122",
     "fixes": [
       {
         "filename": "Until Dawn Bypass.zip",
@@ -6597,7 +6609,7 @@
   },
   {
     "appid": "2239550",
-    "name": "Watch Dogs®: Legion",
+    "name": "Watch Dogs\u00ae: Legion",
     "fixes": [
       {
         "filename": "Watch Dogs Legion Bypass.zip",
@@ -6612,7 +6624,7 @@
   },
   {
     "appid": "447040",
-    "name": "Watch_Dogs® 2",
+    "name": "Watch_Dogs\u00ae 2",
     "fixes": [
       {
         "filename": "Watch Dogs 2 UB Bypass.zip",
@@ -6627,7 +6639,7 @@
   },
   {
     "appid": "243470",
-    "name": "Watch_Dogs™",
+    "name": "Watch_Dogs\u2122",
     "fixes": [
       {
         "filename": "Watch_Dogs Ubisoft Bypass.zip",
@@ -6730,7 +6742,7 @@
   },
   {
     "appid": "3533100",
-    "name": "Wrap House Simulator🌯",
+    "name": "Wrap House Simulator\ud83c\udf2f",
     "fixes": [
       {
         "filename": "Wrap House Simulator.zip",
@@ -6813,7 +6825,7 @@
   },
   {
     "appid": "992300",
-    "name": "嗜血印 Bloody Spell",
+    "name": "\u55dc\u8840\u5370 Bloody Spell",
     "fixes": [
       {
         "filename": "Bloody Spell.zip",
